@@ -24,4 +24,6 @@ output
 [Watch HW07(dis=40cm).mp4](HW07(dis=40cm).mp4)
 
 ## Source Codes
-[Source Codes - Server & Client All-in-one](HW07.ino)
+[View HW07_Server.ino](HW07_Server.ino)
+
+[View HW07_Client.ino](HW07_Client.ino)
